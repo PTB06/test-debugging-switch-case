@@ -2,7 +2,9 @@
 
 **I. THỰC HIỆN DEBUGGING MỘT CHƯƠNG TRÌNH C/C++.**
 
-video thực hiện: https://youtu.be/aWwAGi3hjZQ?si=AUlTp7RuQuAnWvNw
+video thực hiện debugging: https://youtu.be/aWwAGi3hjZQ?si=AUlTp7RuQuAnWvNw
+
+video thực hiện làm quen với Git/Github: https://youtu.be/GFwEQQZdQlg?si=ePkDtYsUYm0-HkD-
 - Khi ấn F5 để thực hiện debug, sẽ có những cửa sổ sau hiện ra:
   + Cửa sổ autos: hiển thị những biến và thông tin của biến có trong dòng code mà hiện tại đang debug.
   + Cửa sổ call stack: hiển thị chuỗi các hàm đã được gọi để đến được vị trí hiện tại trong code, giúp truy vết chương trình.
